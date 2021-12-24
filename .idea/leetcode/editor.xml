@@ -39,6 +39,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[5]Longest Palindromic Substring.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[5]Longest Palindromic Substring.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[5]Longest Palindromic Substring.py" />
+              <option name="questionId" value="5" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[6]Zigzag Conversion.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[6]Zigzag Conversion.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[6]Zigzag Conversion.py" />
+              <option name="questionId" value="6" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/cv/6_ts57555xz5ry8qglzf_b9m0000gn/T/leetcode/editor/en/[1]Two Sum.py">
           <value>
             <LeetcodeEditor>
