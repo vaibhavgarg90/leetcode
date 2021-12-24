@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[1]Two Sum.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[1]Two Sum.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[1]Two Sum.py" />
+              <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[2]Add Two Numbers.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[2]Add Two Numbers.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[2]Add Two Numbers.py" />
+              <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[3]Longest Substring Without Repeating Characters.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[3]Longest Substring Without Repeating Characters.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[3]Longest Substring Without Repeating Characters.py" />
+              <option name="questionId" value="3" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[4]Median of Two Sorted Arrays.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[4]Median of Two Sorted Arrays.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[4]Median of Two Sorted Arrays.py" />
+              <option name="questionId" value="4" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/cv/6_ts57555xz5ry8qglzf_b9m0000gn/T/leetcode/editor/en/[1]Two Sum.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[1]Two Sum.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[1]Two Sum.py" />
+              <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
