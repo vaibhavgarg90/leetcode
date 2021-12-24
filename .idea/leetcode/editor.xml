@@ -57,6 +57,33 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[7]Reverse Integer.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[7]Reverse Integer.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[7]Reverse Integer.py" />
+              <option name="questionId" value="7" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[8]String to Integer (atoi).py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[8]String to Integer (atoi).md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[8]String to Integer (atoi).py" />
+              <option name="questionId" value="8" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[9]Palindrome Number.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[9]Palindrome Number.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[9]Palindrome Number.py" />
+              <option name="questionId" value="9" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/cv/6_ts57555xz5ry8qglzf_b9m0000gn/T/leetcode/editor/en/[1]Two Sum.py">
           <value>
             <LeetcodeEditor>
