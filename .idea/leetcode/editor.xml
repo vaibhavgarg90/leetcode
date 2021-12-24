@@ -3,6 +3,24 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[11]Container With Most Water.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[11]Container With Most Water.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[11]Container With Most Water.py" />
+              <option name="questionId" value="11" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[12]Integer to Roman.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[12]Integer to Roman.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[12]Integer to Roman.py" />
+              <option name="questionId" value="12" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[1]Two Sum.py">
           <value>
             <LeetcodeEditor>
