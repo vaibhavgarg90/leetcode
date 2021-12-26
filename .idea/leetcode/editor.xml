@@ -21,6 +21,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[13]Roman to Integer.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[13]Roman to Integer.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[13]Roman to Integer.py" />
+              <option name="questionId" value="13" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[14]Longest Common Prefix.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[14]Longest Common Prefix.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[14]Longest Common Prefix.py" />
+              <option name="questionId" value="14" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[1]Two Sum.py">
           <value>
             <LeetcodeEditor>
