@@ -111,6 +111,33 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[22]Generate Parentheses.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[22]Generate Parentheses.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[22]Generate Parentheses.py" />
+              <option name="questionId" value="22" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[23]Merge k Sorted Lists.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[23]Merge k Sorted Lists.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[23]Merge k Sorted Lists.py" />
+              <option name="questionId" value="23" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[24]Swap Nodes in Pairs.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[24]Swap Nodes in Pairs.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[24]Swap Nodes in Pairs.py" />
+              <option name="questionId" value="24" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[2]Add Two Numbers.py">
           <value>
             <LeetcodeEditor>
