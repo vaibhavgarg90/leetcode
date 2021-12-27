@@ -66,6 +66,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[18]4Sum.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[18]4Sum.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[18]4Sum.py" />
+              <option name="questionId" value="18" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[19]Remove Nth Node From End of List.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[19]Remove Nth Node From End of List.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[19]Remove Nth Node From End of List.py" />
+              <option name="questionId" value="19" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[1]Two Sum.py">
           <value>
             <LeetcodeEditor>
