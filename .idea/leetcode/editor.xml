@@ -93,6 +93,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[20]Valid Parentheses.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[20]Valid Parentheses.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[20]Valid Parentheses.py" />
+              <option name="questionId" value="20" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[21]Merge Two Sorted Lists.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/solutions/leetcode/editor/en/doc/content/[21]Merge Two Sorted Lists.md" />
+              <option name="path" value="$PROJECT_DIR$/solutions/leetcode/editor/en/[21]Merge Two Sorted Lists.py" />
+              <option name="questionId" value="21" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/solutions/leetcode/editor/en/[2]Add Two Numbers.py">
           <value>
             <LeetcodeEditor>
