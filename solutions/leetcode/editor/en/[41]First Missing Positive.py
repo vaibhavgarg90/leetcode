@@ -39,6 +39,22 @@ class Solution:
                 if i not in _set:
                     return i
 
-        return sol_o_n_time_o_n_space()
+        """
+        O(n) time
+        O(1) space
+        """
+        size = len(nums)
+        # try to arrange elements at their true position
+        for i, num in enumerate(nums):
+            true_position = num - 1
+            while 0 <= true_position < size and nums[i] != nums[true_position]:
+                nums[i], nums[true_position] = nums[true_position], nums[i]
+                true_position = nums[i] - 1
+        # find the first element that is out of order
+        for i, num in enumerate(nums):
+            if i + 1 != num:
+                return i + 1
+        # all the elements are in order
+        return size + 1
 
 # leetcode submit region end(Prohibit modification and deletion)
