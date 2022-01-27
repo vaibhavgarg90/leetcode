@@ -38,16 +38,16 @@ class Solution:
             for binary_digit in binary_num:
                 node = node.setdefault(binary_digit, {})
         max_xor = 0
-        # loop over all the numbers and obtain the max xor value
-        for binary_num in [f"{x:b}".zfill(k) for x in nums]:
+        # loop over all the numbers and maximise the xor value
+        for num in nums:
             cur_max_xor_str = ''
             node = trie
-            for binary_digit in binary_num:
-                tmp = str(int(binary_digit) ^ 1)
+            for binary_digit in f"{num:b}".zfill(k):
+                tmp = '0' if binary_digit == '1' else '1'
                 tmp = tmp if tmp in node else binary_digit
                 cur_max_xor_str += tmp
                 node = node[tmp]
-            cur_max_xor = int(binary_num, 2) ^ int(cur_max_xor_str, 2)
+            cur_max_xor = num ^ int(cur_max_xor_str, 2)
             max_xor = max(max_xor, cur_max_xor)
         return max_xor
 # leetcode submit region end(Prohibit modification and deletion)
