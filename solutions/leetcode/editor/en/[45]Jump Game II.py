@@ -36,26 +36,22 @@
 
 
 # leetcode submit region begin(Prohibit modification and deletion)
-from functools import cache
-
-
 class Solution:
     def jump(self, nums: List[int]) -> int:
         n = len(nums)
 
-        @cache
-        def rec(i):
-            if i >= n - 1:
-                return 0
-            j = nums[i]
-            min_jumps = 10 ** 5
-            while j > 0:
-                min_jumps = min(min_jumps, rec(i + j))
-                j -= 1
-            return 1 + min_jumps
-
         if n == 1:
             return 0
-        
-        return rec(0)
+
+        count = 0
+        l, r = 0, 0
+        while r < n - 1:
+            farthest = 0
+            for i in range(l, r + 1):
+                farthest = max(farthest, i + nums[i])
+            l = r + 1
+            r = farthest
+            count += 1
+
+        return count
 # leetcode submit region end(Prohibit modification and deletion)
